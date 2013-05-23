@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "C:/Users/kvemishe/Documents/FPGA/Xilinx Course/LEDBlink/LEDBlink.xst" -ofn "C:/Users/kvemishe/Documents/FPGA/Xilinx Course/LEDBlink/LEDBlink.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc6slx45-csg324-3 "LEDBlink.ngc" LEDBlink.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc6slx45-csg324-3 "LEDBlink.ngc" LEDBlink.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm LEDBlink -w -dir netgen/translate -ofmt vhdl -sim LEDBlink.ngd LEDBlink_translate.vhd 
+map -intstyle ise -p xc6slx45-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o LEDBlink_map.ncd LEDBlink.ngd LEDBlink.pcf 
+par -w -intstyle ise -ol high -mt off LEDBlink_map.ncd LEDBlink.ncd LEDBlink.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml LEDBlink.twx LEDBlink.ncd -o LEDBlink.twr LEDBlink.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f LEDBlink.ut LEDBlink.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc6slx45-csg324-3 "LEDBlink.ngc" LEDBlink.ngd  
+map -intstyle ise -p xc6slx45-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o LEDBlink_map.ncd LEDBlink.ngd LEDBlink.pcf 
+par -w -intstyle ise -ol high -mt off LEDBlink_map.ncd LEDBlink.ncd LEDBlink.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml LEDBlink.twx LEDBlink.ncd -o LEDBlink.twr LEDBlink.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f LEDBlink.ut LEDBlink.ncd 

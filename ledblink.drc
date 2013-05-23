@@ -1,0 +1,8 @@
+Release 12.4 Drc M.81d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Thu May 23 11:50:53 2013
+
+drc -z LEDBlink.ncd LEDBlink.pcf
+
+DRC detected 0 errors and 0 warnings.

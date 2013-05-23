@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="LEDBlink.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="LEDBlink.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="LEDBlink.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="LEDBlink.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="LEDBlink.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="LEDBlink.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="LEDBlink.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="LEDBlink.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="LEDBlink.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="LEDBlink.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="LEDBlink.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LEDBlink.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="LEDBlink.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="LEDBlink.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="LEDBlink.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="LEDBlink.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="LEDBlink.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="LEDBlink.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="LEDBlink.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="LEDBlink.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="LEDBlink.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="LEDBlink_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="LEDBlink_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="LEDBlink_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="LEDBlink_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="LEDBlink_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="LEDBlink_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="LEDBlink_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="LEDBlink_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="LEDBlink_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="LEDBlink_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="LEDBlink_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="LEDBlink_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="LEDBlink_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="LEDBlink_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="ledblink.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="ledblink.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="ledblink.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="netgen"/>
+    <file xil_pn:branch="PostTranslateSimulation" xil_pn:fileType="FILE_NETGEN_REPORT" xil_pn:name="netgen/translate/LEDBlink_translate.nlf"/>
+    <file xil_pn:branch="PostTranslateSimulation" xil_pn:fileType="FILE_VHDL" xil_pn:name="netgen/translate/LEDBlink_translate.vhd"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1369326726">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-2095035809184444602" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="1860135993642180471" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="828806303449205960" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="8977612015756273942" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326727" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-8089974794550704639" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326732" xil_pn:in_ck="3950132591764171957" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-5759885940750507440" xil_pn:start_ts="1369326727">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="LEDBlink.lso"/>
+      <outfile xil_pn:name="LEDBlink.ngc"/>
+      <outfile xil_pn:name="LEDBlink.ngr"/>
+      <outfile xil_pn:name="LEDBlink.prj"/>
+      <outfile xil_pn:name="LEDBlink.stx"/>
+      <outfile xil_pn:name="LEDBlink.syr"/>
+      <outfile xil_pn:name="LEDBlink.xst"/>
+      <outfile xil_pn:name="LEDBlink_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327823" xil_pn:in_ck="4913312808198" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3212906573316402173" xil_pn:start_ts="1369327823">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327826" xil_pn:in_ck="1223630207790539409" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="3123605695536879778" xil_pn:start_ts="1369327823">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="LEDBlink.bld"/>
+      <outfile xil_pn:name="LEDBlink.ngd"/>
+      <outfile xil_pn:name="LEDBlink_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327835" xil_pn:in_ck="1223631614199157650" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="4245753365082497697" xil_pn:start_ts="1369327826">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="LEDBlink.pcf"/>
+      <outfile xil_pn:name="LEDBlink_map.map"/>
+      <outfile xil_pn:name="LEDBlink_map.mrp"/>
+      <outfile xil_pn:name="LEDBlink_map.ncd"/>
+      <outfile xil_pn:name="LEDBlink_map.ngm"/>
+      <outfile xil_pn:name="LEDBlink_map.xrpt"/>
+      <outfile xil_pn:name="LEDBlink_summary.xml"/>
+      <outfile xil_pn:name="LEDBlink_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327850" xil_pn:in_ck="317775934870688171" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-3829590541433901613" xil_pn:start_ts="1369327835">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="LEDBlink.ncd"/>
+      <outfile xil_pn:name="LEDBlink.pad"/>
+      <outfile xil_pn:name="LEDBlink.par"/>
+      <outfile xil_pn:name="LEDBlink.ptwx"/>
+      <outfile xil_pn:name="LEDBlink.unroutes"/>
+      <outfile xil_pn:name="LEDBlink.xpi"/>
+      <outfile xil_pn:name="LEDBlink_pad.csv"/>
+      <outfile xil_pn:name="LEDBlink_pad.txt"/>
+      <outfile xil_pn:name="LEDBlink_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327858" xil_pn:in_ck="3950132591764163080" xil_pn:name="TRANEXT_bitFile_spartan6" xil_pn:prop_ck="335873702051717080" xil_pn:start_ts="1369327850">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="LEDBlink.ut"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="ledblink.bgn"/>
+      <outfile xil_pn:name="ledblink.bit"/>
+      <outfile xil_pn:name="ledblink.drc"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1369327850" xil_pn:in_ck="1223445968261549838" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1369327844">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="LEDBlink.twr"/>
+      <outfile xil_pn:name="LEDBlink.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1369326913" xil_pn:in_ck="3950132591764163212" xil_pn:name="TRAN_postXlateSimModel" xil_pn:prop_ck="-5381146116231387935" xil_pn:start_ts="1369326911">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="netgen"/>
+      <outfile xil_pn:name="netgen/translate/LEDBlink_translate.nlf"/>
+      <outfile xil_pn:name="netgen/translate/LEDBlink_translate.vhd"/>
+    </transform>
+  </transforms>
+
+</generated_project>

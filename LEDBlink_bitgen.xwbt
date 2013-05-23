@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\kvemishe\Documents\FPGA\Xilinx Course\LEDBlink\LEDBlink.ncd
+OUTFILE=C:\Users\kvemishe\Documents\FPGA\Xilinx Course\LEDBlink\LEDBlink.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg324
+WORKINGDIR=C:\Users\kvemishe\Documents\FPGA\Xilinx Course\LEDBlink
+LICENSE=WebPack
+USER_INFO=2343_1295976008_055

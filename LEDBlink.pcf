@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map M.81d on Thu May 23 11:50:33 2013
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "LED" LOCATE = SITE "U18" LEVEL 1;
+COMP "clk" LOCATE = SITE "L15" LEVEL 1;
+COMP "rst" LOCATE = SITE "A10" LEVEL 1;
+SCHEMATIC END;
+
